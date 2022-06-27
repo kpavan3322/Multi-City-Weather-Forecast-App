@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MultiCityWeatherForecast</string>
+    <string name="textview_label">TextView</string>
+    <string name="textview_label1">TextView</string>
+    <string name="textview_label2">TextView</string>
+    <string name="max_label">Max:</string>
+    <string name="textview_label3">TextView</string>
+    <string name="min_label">Min:</string>
+    <string name="textview_label4">TextView</string>
+    <string name="humidity_label">Humidity:</string>
+    <string name="textview_label5">TextView</string>
+    <string name="textview_label6">TextView</string>
+</resources>
